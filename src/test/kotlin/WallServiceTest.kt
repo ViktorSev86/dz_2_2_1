@@ -112,7 +112,7 @@ class WallServiceTest {
             true, donut2, 4567
         ))
 
-        val update = Post(2, 3535, 4444, 8989, 456567788, "Текст поста 1",
+        val update = Post(999, 3535, 4444, 8989, 456567788, "Текст поста 1",
             5555, 6767, false, comments1, copiright1, likes1, reposts1, views1,
             "post", 3456, false, false, false, false, false,
             false, donut1, 3456)
